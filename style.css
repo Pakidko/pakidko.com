@@ -2,3 +2,9 @@ body {
   font-family: Arial, sans-serif;
   font-size: 20pt;
 }
+.img-wrap {
+  float: left;
+  margin: 0 16px 12px 0;
+  max-width: 300px;
+  height: auto;
+}
