@@ -1,0 +1,1 @@
+# pakidko.com
